@@ -9,7 +9,7 @@
   html,body { height:100%; margin:0; background:#000011; overflow:hidden; font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial; }
   #glCanvas { width:100vw; height:100vh; display:block; }
   .ui { position: absolute; right: 18px; top: 18px; background: rgba(255,255,255,0.04); padding:12px; border-radius:10px; backdrop-filter: blur(6px); color:#cfeffd; box-shadow:0 6px 20px rgba(0,0,0,0.6); }
-  .i h3{ margin:0 0 6px 0; color:#9be8ff; font-size:15px; }
+  .ui h3{ margin:0 0 6px 0; color:#9be8ff; font-size:15px; }
   .ui button{ background:linear-gradient(90deg,#7df9ff,#9b6bff); border:none; padding:8px 12px; border-radius:8px; color:#001219; font-weight:700; cursor:pointer; margin-right:6px; }
   .ui label { font-size:13px; display:block; margin-top:8px; color:#bfeffb; }
   .ui input[type=range]{ width:170px; }
